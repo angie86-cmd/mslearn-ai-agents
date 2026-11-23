@@ -1,5 +1,11 @@
 # Develop AI Agents in Azure
 
+## About this repository
+
+This is my personal learning fork of Microsoft's [mslearn-ai-agents repository](https://github.com/MicrosoftLearning/mslearn-ai-agents). I am working through the Microsoft Learn labs and documenting or adapting my work as I complete them. The original Microsoft repository and exercise instructions remain the source for the learning path; my lab-specific work is identified in the corresponding lab folders.
+
+The overview and official exercise information below are retained from Microsoft's repository. For my completed work on Lab 07, see [Lab 07: Develop an AI Agent with Microsoft Agent Framework](./Labfiles/07-agent-framework/README.md).
+
 The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building AI agents on Microsoft Azure.
 
 > **Note**: To complete the exercises, you'll need an Azure subscription in which you have sufficient permissions and quota to provision the necessary Azure resources and generative AI models. If you don't already have one, you can sign up for an [Azure account](https://azure.microsoft.com/free). There's a free trial option for new users that includes credits for the first 30 days.
@@ -13,4 +19,3 @@ If you choose to run the code from applications in this repository locally, it w
 ## Reporting issues
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
-
