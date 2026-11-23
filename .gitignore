@@ -73,3 +73,11 @@ Thumbs.db
 # Output files
 analysis_results.json
 output.txt
+
+# Local configuration and Python environments
+.env
+.env.*
+!.env.example
+labenv/
+.venv/
+__pycache__/
